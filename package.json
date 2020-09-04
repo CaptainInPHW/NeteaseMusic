@@ -33,7 +33,7 @@
     "jquery": "^3.3.1",
     "leancloud-storage": "^3.6.0",
     "lodash": "^4.17.5",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "postcss-cssnext": "^3.1.0",
     "postcss-import": "^11.1.0",
     "postcss-loader": "^2.1.0",
